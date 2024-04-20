@@ -1,0 +1,4 @@
+ company1 10
+ lolo 5 
+scsd 34 
+solvex 10 
